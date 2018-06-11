@@ -12,4 +12,10 @@ order has many items, which are the products available in the retail shop. In ad
 supporting document is needed to reflect the design of the implementation codes and the
 implementation details that utilises the Object-oriented programming concepts.
 
- 
+# OUTCOMES
+At the end of this  , you should be able to:
+1 Explain Object-oriented programming concepts and apply them to the modeling of real
+world systems.
+2 Explain the Object-oriented paradigm and utilization of the offered facilities
+3 Demonstrate ability to develop and derive new class structures and organize them such
+that they will model real world systems within computers.
