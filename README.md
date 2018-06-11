@@ -1,4 +1,4 @@
-# C-CUSTOMER-ORDER-MANAGEMENT-SYSTEM
+# C++-CUSTOMER-ORDER-MANAGEMENT-SYSTEM
 Develop the practical ability to describe, justify, and implement an Object-oriented system.
 # THE COURSEWORK OVERVIEW
 
